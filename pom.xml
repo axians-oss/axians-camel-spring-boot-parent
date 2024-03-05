@@ -17,7 +17,7 @@
     <description>
         Axians Camel Spring Boot über POM. See README.md for more details.
     </description>
-    <url>https://github.com/axians-oss/axians-parent</url>
+    <url>https://github.com/axians-oss/axians-camel-spring-boot-parent</url>
 
     <licenses>
         <license>

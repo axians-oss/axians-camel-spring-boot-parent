@@ -10,7 +10,7 @@
     </parent>
 
     <artifactId>axians-camel-spring-boot</artifactId>
-    <version>5-SNAPSHOT</version>
+    <version>5</version>
     <packaging>pom</packaging>
 
     <name>${project.groupId}:${project.artifactId}</name>
@@ -39,7 +39,7 @@
         <connection>scm:https://github.com/axians-oss/axians-camel-spring-boot-parent.git</connection>
         <developerConnection>scm:git:https://github.com/axians-oss/axians-camel-spring-boot-parent.git</developerConnection>
         <url>https://github.com/axians-oss/axians-camel-spring-boot-parent</url>
-      <tag>HEAD</tag>
+      <tag>5</tag>
   </scm>
 
     <properties>

@@ -43,8 +43,8 @@
   </scm>
 
     <properties>
-        <spring-boot.version>3.2.3</spring-boot.version>
-        <camel.version>4.4.0</camel.version>
+        <spring-boot.version>3.2.4</spring-boot.version>
+        <camel.version>4.4.1</camel.version>
     </properties>
 
     <dependencyManagement>

@@ -36,9 +36,9 @@
     </developers>
 
     <scm>
-        <connection>scm:https://github.com/axians-oss/axians-camel-spring-boot-parent.git</connection>
-        <developerConnection>scm:git:https://github.com/axians-oss/axians-camel-spring-boot-parent.git</developerConnection>
-        <url>https://github.com/axians-oss/axians-camel-spring-boot-parent</url>
+        <connection>scm:https://github.com/axians-oss/camel-spring-boot-parent.git</connection>
+        <developerConnection>scm:git:https://github.com/axians-oss/camel-spring-boot-parent.git</developerConnection>
+        <url>https://github.com/axians-oss/camel-spring-boot-parent.git</url>
       <tag>HEAD</tag>
   </scm>
 
